@@ -1,2 +1,2 @@
 # express-starter
-Basic App
+Basic Application
